@@ -1,0 +1,15 @@
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\bin\Debug\net6.0\Array Storing Lab.exe
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\bin\Debug\net6.0\Array Storing Lab.deps.json
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\bin\Debug\net6.0\Array Storing Lab.runtimeconfig.json
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\bin\Debug\net6.0\Array Storing Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\bin\Debug\net6.0\Array Storing Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\Array Storing Lab.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\Array Storing Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\Array Storing Lab.AssemblyInfoInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\Array Storing Lab.AssemblyInfo.cs
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\Array Storing Lab.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\Array Storing Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\refint\Array Storing Lab.dll
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\Array Storing Lab.pdb
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\Array Storing Lab.genruntimeconfig.cache
+C:\Users\Owner\Desktop\C# Bootcamp\Array Storing Lab\Array Storing Lab\obj\Debug\net6.0\ref\Array Storing Lab.dll
